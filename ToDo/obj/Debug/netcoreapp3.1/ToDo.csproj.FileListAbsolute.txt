@@ -12,8 +12,6 @@ C:\Users\Marvin\Desktop\ToDo\ToDo\bin\Debug\netcoreapp3.1\ToDo.Views.pdb
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.csprojAssemblyReference.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfoInputs.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.AssemblyInfo.cs
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.csproj.CoreCompileInputs.cache
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.RazorAssemblyInfo.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.RazorAssemblyInfo.cs
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.TagHelpers.input.cache

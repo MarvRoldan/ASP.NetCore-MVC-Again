@@ -8,7 +8,6 @@ namespace ToDo.Models
 {
     public class ToDo
     {
-        [Required(ErrorMessage = "ID Required")]
         public int Id { get; set; }
         [Required(ErrorMessage = "Task Required")]
         public string Task { get; set; }
