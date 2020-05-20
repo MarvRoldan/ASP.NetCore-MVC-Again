@@ -53,7 +53,6 @@ namespace ToDo
                     name: "default",
                     pattern: "{controller=ToDo}/{action=Index}"
                 );
-                //endpoints.MapRazorPages();
             });
         }
     }
