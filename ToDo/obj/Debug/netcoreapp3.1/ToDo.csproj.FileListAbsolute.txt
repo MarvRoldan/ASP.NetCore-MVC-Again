@@ -33,7 +33,6 @@ C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.dll
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.pdb
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.genruntimeconfig.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.csproj.CopyComplete
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Index.cshtml.g.cs
 C:\Users\Marvin\Desktop\ToDo\ToDo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Marvin\Desktop\ToDo\ToDo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Marvin\Desktop\ToDo\ToDo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -163,8 +162,8 @@ C:\Users\Marvin\Desktop\ToDo\ToDo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Code
 C:\Users\Marvin\Desktop\ToDo\ToDo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.csproj.CoreCompileInputs.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Create.cshtml.g.cs
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Delete.cshtml.g.cs
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Details.cshtml.g.cs
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Edit.cshtml.g.cs
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Index.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Create.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Delete.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Details.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Edit.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Index.cshtml.g.cs
