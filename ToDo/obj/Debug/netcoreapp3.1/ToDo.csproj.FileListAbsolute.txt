@@ -167,3 +167,4 @@ C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\D
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Details.cshtml.g.cs
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Edit.cshtml.g.cs
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Index.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
