@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ATZqjnhfm3hw636axwNN9V9nEmt1JVoPB4oYVPVZ7Ywcy8TiyJanZQ8wktOfBVlcPft2apcsBlF5S7VC/1tyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marvin\\Desktop\\ToDo\\ToDo\\ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marvin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
