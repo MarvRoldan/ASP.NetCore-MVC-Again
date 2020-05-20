@@ -10,7 +10,7 @@ namespace ToDo.Controllers
     {
         public IActionResult Index()
         {
-            return View("~/Views/Index.cshtml");
+            return View();
         }
     }
 }

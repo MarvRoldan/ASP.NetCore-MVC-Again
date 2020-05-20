@@ -35,4 +35,4 @@ C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.dll
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.pdb
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.genruntimeconfig.cache
 C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.csproj.CopyComplete
-C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\Marvin\Desktop\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Index.cshtml.g.cs
