@@ -49,7 +49,11 @@ namespace ToDo
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=ToDo}/{action=Index}"
+                );
+                //endpoints.MapRazorPages();
             });
         }
     }
